@@ -1,0 +1,5 @@
+.idea
+service-product/config.yml
+auth/config.yml
+service-product/service-product.exe
+auth/auth.exe
