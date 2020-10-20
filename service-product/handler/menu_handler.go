@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/FahrizalSatya/pendalaman-microservice/service-product/database"
-	"github.com/FahrizalSatya/pendalaman-microservice/utils"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/service-product/database"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/utils"
 	"github.com/gorilla/context"
 	"gorm.io/gorm"
 )

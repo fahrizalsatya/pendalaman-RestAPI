@@ -3,9 +3,9 @@ package handler
 import (
 	"encoding/json"
 
-	"github.com/FahrizalSatya/pendalaman-microservice/service-product/config"
-	"github.com/FahrizalSatya/pendalaman-microservice/service-product/entity"
-	"github.com/FahrizalSatya/pendalaman-microservice/utils"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/service-product/config"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/service-product/entity"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/utils"
 
 	"io/ioutil"
 	"log"

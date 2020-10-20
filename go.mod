@@ -1,4 +1,4 @@
-module github.com/FahrizalSatya/pendalaman-microservice
+module github.com/FahrizalSatya/pendalaman-RestAPI
 
 go 1.15
 
@@ -9,5 +9,5 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/spf13/viper v1.7.1 // indirect
 	gorm.io/driver/mysql v1.0.2 // indirect
-	gorm.io/gorm v1.20.2
+	gorm.io/gorm v1.20.3
 )

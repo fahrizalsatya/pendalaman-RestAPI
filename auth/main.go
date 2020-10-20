@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/FahrizalSatya/pendalaman-microservice/auth/config"
-	"github.com/FahrizalSatya/pendalaman-microservice/auth/database"
-	"github.com/FahrizalSatya/pendalaman-microservice/auth/handler"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/auth/config"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/auth/database"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/auth/handler"
 	"github.com/gorilla/mux"
 	"github.com/spf13/viper"
 	"gorm.io/driver/mysql"

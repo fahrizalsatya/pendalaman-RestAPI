@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/FahrizalSatya/pendalaman-microservice/service-product/config"
-	"github.com/FahrizalSatya/pendalaman-microservice/service-product/database"
-	"github.com/FahrizalSatya/pendalaman-microservice/service-product/handler"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/service-product/config"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/service-product/database"
+	"github.com/FahrizalSatya/pendalaman-RestAPI/service-product/handler"
 	"github.com/gorilla/mux"
 	"github.com/spf13/viper"
 
